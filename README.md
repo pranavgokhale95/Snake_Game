@@ -9,10 +9,10 @@ g++ -o snake snake_linux.cpp
 ```
 
 Use the following keys:
-<kbd>w</kbd> -- for going up
-<kbd>s</kbd> -- for going down
-<kbd>a</kbd> -- for going left
-<kbd>d</kbd> -- for going right
+<kbd>w</kbd> -- for going up <br>
+<kbd>s</kbd> -- for going down <br>
+<kbd>a</kbd> -- for going left <br>
+<kbd>d</kbd> -- for going right <br>
 and eat the food represented by "**$**" to increase your score ie. the length of the snake
 
 PS: Press the key and wait for a second. 
@@ -37,4 +37,5 @@ Apart from these issues please report any otherissues in the issue section. Than
 * The simple do-while for play again :P
 * Add a section for high scores and corresponding names.
 
-Open for suggestions!
+Open for suggestions! :simple_smile:
+:sunglasses:
