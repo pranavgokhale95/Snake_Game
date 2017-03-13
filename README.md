@@ -37,5 +37,6 @@ Apart from these issues please report any otherissues in the issue section. Than
 * The simple do-while for play again :P
 * Add a section for high scores and corresponding names.
 
-Open for suggestions! :simple_smile:
-:sunglasses:
+Open for suggestions! 
+
+Enjoy :sunglasses:
